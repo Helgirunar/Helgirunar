@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Helgirunar
-- 👀 I’m interested in Computers & programming
-- 🎓 Bachelor's degree in Computer Science from the University of Reykjavík.
+- Programmer.
 - 📫 How to reach me Helgirunar93@gmail.com
 
 <!---
