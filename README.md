@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Helgirunar
 - Programmer.
-- 📫 How to reach me Helgirunar93@gmail.com
+- 📫 How to reach me Helgirunarjohannesson@gmail.com
 
 <!---
 Helgirunar/Helgirunar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
