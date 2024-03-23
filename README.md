@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Helgirunar
-- Programmer.
+- Bsc in Computer Science.
 - 📫 How to reach me Helgirunarjohannesson@gmail.com
 
 <!---
